@@ -34,17 +34,3 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
-
-## GitHub Activity Graph:
-
-<table>
-    <tr>
-        <td colspan="2" align="center">
-          <a href="https://github.com/yish-mael">
-            <img src="https://raw.githubusercontent.com" alt="My GitHub Stats"/>
-          </a>
-        </td>
-    </tr>
-</table>
-
----
